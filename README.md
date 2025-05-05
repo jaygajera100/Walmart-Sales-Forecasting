@@ -1,30 +1,11 @@
 # Walmart-Sales-Forecasting
 
-![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
-![GitHub last commit](https://img.shields.io/github/last-commit/sagarBapodara/Walmart-Sales-Forecasting)
-![GitHub repo size](https://img.shields.io/github/repo-size/sagarBapodara/Walmart-Sales-Forecasting)
-![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Regression-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Open In Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue)](https://www.kaggle.com/code/sagarbapodara/walmart-sales-eda-modelling-forecasting)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-Badge [source](https://shields.io/)
-
-## Authors
-
-- [@sagarbapodara](https://github.com/SagarBapodara)
-
 ## Problem Statement
 Sales forecasting is a crucial tool for retail organizations to develop strategies that align with demand and create promotions to enhance sales. Walmart, a billion-dollar American retail giant, operates over 10,000 stores worldwide and over 4,000 across the United States (ref: https://corporate.walmart.com/about/location-facts). Accurate sales forecasting allows the company to manage inventory, predict revenue, and make informed decisions regarding new investments. Achieving predetermined targets early in the season can positively influence stock prices and shape investors' perceptions. On the other hand, missing these projections could significantly harm stock prices, which would be particularly detrimental for a large company like Walmart.
 
 ## Aim
 This project aims to develop a model that can forecast store sales based on past sales patterns. This model allows decision-makers to make critical business decisions, maximize revenue, and improve sales in underperforming departments.
 
-## 
-
-Link to my Kaggle Notebook here [🔗](https://www.kaggle.com/code/sagarbapodara/walmart-sales-eda-modelling-forecasting)
-
-Link to Medium Article with explanations here [🔗](https://medium.com/@sagarbapodara/the-future-of-walmart-sales-in-depth-analysis-and-forecasting-806241dc3300)
 
 ## Dataset
 The data has been taken from [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data). All the data files including the merged data are placed in [data](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/tree/main/data) folder. 
@@ -133,16 +114,8 @@ SARIMA metrics:
 
 A [PowerBI](https://app.powerbi.com/) dashboard using a smaller subset of US retail sales data has also been developed:  
 
-![Retail-Power-BI-Dashboard](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/blob/main/dashboard/PowerBI_retail-dashboard.png)
-
-The data file (in CSV format) is placed in [data folder.](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/tree/main/dashboard/data)
-
 ## 🚀 Thanks
 
 Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :)
 
 **If you found it useful, leave a ⭐ here!**
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
