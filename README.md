@@ -8,7 +8,7 @@ This project aims to develop a model that can forecast store sales based on past
 
 
 ## Dataset
-The data has been taken from [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data). All the data files including the merged data are placed in [data](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/tree/main/data) folder. 
+The data has been taken from [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data). All the data files including the merged data are placed in data folder. 
 
 Dates in the dataset range from 2010-02-05	to 2013-05-17, which is ~ 3 years. 
 
