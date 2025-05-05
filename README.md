@@ -1,8 +1,5 @@
 # Walmart-Sales-Forecasting
 
-![banner](graphics/Other/wm-logo.jpeg)
-
-
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sagarBapodara/Walmart-Sales-Forecasting)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sagarBapodara/Walmart-Sales-Forecasting)
