@@ -20,27 +20,6 @@ It contains 4 files:
   4. stores.csv: Contains anonymized information about the 45 stores, indicating the type and size of the store.
 </pre>
 
-## Requirements
-
-Required dependencies are placed here: [requirements.txt](https://github.com/SagarBapodara/Walmart-Sales-Forecasting/blob/main/requirements.txt). Install them using the following command: 
-<pre>
-  pip install -r /path/to/requirements.txt
-</pre>
-
-## EDA: 
-
-1. Average Weekly Sales by Stores
-
-![avg-weekly-sales-stores](graphics/avg_weekly_sales_by_stores.png)
-
-2. Top 5 departments in top 5 stores by weekly sales
-
-![top-5-dept-top-5-stores](graphics/top_5_dept_top_5_stores.png)
-
-3. Bottom 5 departments in top 5 stores by weekly sales
-
-![btm-5-dept-top-5-stores](graphics/btm_5_dept_top_5_stores.png)
-
 ## Inference
 <pre>
 Note: Some department numbers are missing
@@ -77,30 +56,6 @@ Bottom 5 Departments:
 | XGB Regressor (n = 50)       | 4.020566e+07 | 0.922025  |
 | XGB Regressor (n = 100)       | 4.020566e+07 | 0.922025  |
 | XGB Regressor (n = 200)       | 2.124197e+07 | 0.958803  |
-
-## Combined Results (MSE, R^2)
-
-![mse-r2-model-results](graphics/model-results.png)
-
-## Actual Model Output v/s Test data: 
-
-1. Random Forest Regressor
-
-![forecast-rfr](graphics/forecast-rfr.png)
-
-2. Gradient Boosting
-
-![forecast-gb](graphics/forecast-gb.png)
-
-3. XGB Regressor
-
-![forecast-xgb](graphics/forecast-xgb.png)
-
-## Forecasting: 
-
-![forecast-sarima](graphics/forecast-sarima.png)
-
-![forecast-sarima-1](graphics/forecast-sarima_1.png)
 
 SARIMA metrics: 
 <pre>
